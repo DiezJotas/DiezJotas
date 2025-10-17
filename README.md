@@ -1,5 +1,9 @@
 # 👋 Hola, soy José Díez
 
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+</p>
+
 💻 Desarrollador Full-Stack apasionado por crear aplicaciones web modernas, intuitivas y centradas en el usuario.  
 🚀 Trabajo principalmente con **JavaScript, React, Python, Flask y SQLAlchemy**, aplicando buenas prácticas de desarrollo y metodologías **SCRUM**.  
 🌍 Actualmente estoy desarrollando **[Hand to Hand](#)**, una aplicación que conecta a usuarios de distintos países para intercambiar divisas sin comisiones.  
