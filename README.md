@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hola, soy José Díez
 
-<!--
-**DiezJotas/DiezJotas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Full-Stack apasionado por crear aplicaciones web modernas, intuitivas y centradas en el usuario.  
+🚀 Trabajo principalmente con **JavaScript, React, Python, Flask y SQLAlchemy**, aplicando buenas prácticas de desarrollo y metodologías **SCRUM**.  
+🌍 Actualmente estoy desarrollando **[Hand to Hand](#)**, una aplicación que conecta a usuarios de distintos países para intercambiar divisas sin comisiones.  
 
-Here are some ideas to get you started:
+✨ Me motiva seguir aprendiendo y construir software que combine **tecnología, diseño y funcionalidad real**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠️ Tecnologías que utilizo
+- **Frontend:** React, Vite, HTML5, CSS3, JavaScript (ES6+)
+- **Backend:** Python, Flask, SQLAlchemy, Alembic
+- **Herramientas:** Git, GitHub, Render, Cloudinary, Postman
+- **Diseño:** Figma, UI/UX, diseño responsivo
+
+📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/jose-diez-gonzalez-9a7535387/) · [Email](jose.jdg37@gmail.com)
